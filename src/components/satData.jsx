@@ -79,6 +79,6 @@ const satData = [
      orbitType: "Low",
      operational: true
    }
- ];
+ ]
  
  export default satData;
